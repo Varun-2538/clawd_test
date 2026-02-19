@@ -49,6 +49,30 @@ clawd_test/
 └── README.md               # This file
 ```
 
+## Table of Contents
+
+- [Quick Start](#quick-start)
+- [Setup Instructions](#setup-instructions)
+- [Running the App](#running-the-app)
+- [API Documentation](#api-documentation)
+- [Project Structure](#project-structure)
+- [Troubleshooting](#troubleshooting)
+- [Development](#development)
+
+## Quick Start
+
+Get the app running in 2 minutes:
+
+```bash
+# Backend (Terminal 1)
+cd backend && npm install && npm start
+
+# Frontend (Terminal 2)
+cd frontend && npm install && npm start
+```
+
+Then open `http://localhost:3000` in your browser.
+
 ## Setup Instructions
 
 ### Prerequisites
