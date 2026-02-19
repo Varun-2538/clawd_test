@@ -1,6 +1,6 @@
-# Todo List Web App
+# Todo App
 
-> **A modern, full-stack todo list web app built with Express.js and React for seamless task management.**
+A modern, full-stack todo list web app built with Express.js and React for seamless task management.
 
 A full-stack todo list application built with Express.js (backend) and React (frontend). Features a modern, responsive UI with complete CRUD operations for managing your daily tasks.
 
